@@ -1,11 +1,11 @@
-# Hello dev's! Prazer, sou o Lucas! 👾
+# Bem-Vindo ao Meu Perfil!!! 👾
 
-> **_Full Stack Developer_  👨🏽‍💻** 
+<!-- > **_Full Stack Developer_  👨🏽‍💻**  -->
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasModolo22)](https://github.com/LucasModolo22)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucasmodolo/)
 
-### Quais tecnologias utilizo? 🤔
+<!-- ### Quais tecnologias utilizo? 🤔
 <code><img src="./img/html.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/css.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/js.png" width="40px" height="40px"></code>&nbsp;
@@ -20,25 +20,25 @@
 <code><img src="./img/git.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/java.webp" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/python.webp" width="40px" height="40px"></code>&nbsp;
-<br>
+<br> -->
 
-### As quais quero começar a estudar <br>
+<!-- ### As quais quero começar a estudar <br>
 <code><img src="./img/React.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/mysql.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/vue.webp" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/csharp.svg" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/boot.png" width="40px" height="40px"></code>&nbsp;
 
-<br>
+<br> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasModolo22&layout=compact&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
 
-### Sobre mim 🖖🏼
+<!-- ### Sobre mim 🖖🏼
 Bom, primeiramente prazer! Me chamo Lucas Módolo. Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. E agora estou trabalhando como Full Stack em uma Startup. <br>
 
 Sempre gostei muito de aprender, principalmente coisas relacionadas a tecnologia da informação. Então nunca paro de fazer cursos, sempre aprendendo tecnologias novas.<br>
 
 
-#NeverStopLearning 🚀
+#NeverStopLearning 🚀 -->
 
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasModolo22&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
