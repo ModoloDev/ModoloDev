@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello dev's! Prazer, sou o Lucas! 👾
 
-<!--
-**LucasModolo22/LucasModolo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **_Full Stack Developer_  👨🏽‍💻** 
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasModolo22)](https://github.com/LucasModolo22)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucasmodolo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quais tecnologias utilizo? 🤔
+<code><img src="./img/html.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/css.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/js.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/typescript.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/node.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/mongodb.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/boot.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/ionic.webp" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/angular.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/postgresql.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/vscode.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/git.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/java.webp" width="40px" height="40px"></code>&nbsp;
+<br>
+
+### As quais quero começar a estudar <br>
+<code><img src="./img/React.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/mysql.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/vue.webp" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/csharp.svg" width="40px" height="40px"></code>&nbsp;
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasModolo22&layout=compact&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
+
+### Sobre mim 🖖🏼
+Bom, primeiramente prazer! Me chamo Lucas Módolo. Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. E agora estou trabalhando como Full Stack em uma Startup. <br>
+
+Sempre gostei muito de aprender, principalmente coisas relacionadas a tecnologia da informação. Então nunca paro de fazer cursos, sempre aprendendo tecnologias novas.<br>
+
+
+#NeverStopLearning 🚀
+
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasModolo22&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
