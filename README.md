@@ -10,15 +10,16 @@
 <code><img src="./img/css.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/js.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/typescript.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/nestjs.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/node.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/mongodb.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="./img/boot.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/ionic.webp" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/angular.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/postgresql.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/vscode.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/git.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/java.webp" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/python.webp" width="40px" height="40px"></code>&nbsp;
 <br>
 
 ### As quais quero começar a estudar <br>
@@ -26,6 +27,7 @@
 <code><img src="./img/mysql.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/vue.webp" width="40px" height="40px"></code>&nbsp;
 <code><img src="./img/csharp.svg" width="40px" height="40px"></code>&nbsp;
+<code><img src="./img/boot.png" width="40px" height="40px"></code>&nbsp;
 
 <br>
 
