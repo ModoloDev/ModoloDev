@@ -2,7 +2,7 @@
 
 <!-- > **_Full Stack Developer_  👨🏽‍💻**  -->
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucasModolo22)](https://github.com/LucasModolo22)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ModoloDev)](https://github.com/ModoloDev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucasmodolo/)
 
 <!-- ### Quais tecnologias utilizo? 🤔
@@ -31,7 +31,7 @@
 
 <br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasModolo22&layout=compact&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModoloDev&layout=compact&theme=prussian)](https://github.com/ModoloDev/github-readme-stats)
 
 <!-- ### Sobre mim 🖖🏼
 Bom, primeiramente prazer! Me chamo Lucas Módolo. Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. E agora estou trabalhando como Full Stack em uma Startup. <br>
@@ -41,4 +41,4 @@ Sempre gostei muito de aprender, principalmente coisas relacionadas a tecnologia
 
 #NeverStopLearning 🚀 -->
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasModolo22&theme=prussian)](https://github.com/LucasModolo22/github-readme-stats)
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=ModoloDev&theme=prussian)](https://github.com/ModoloDev/github-readme-stats)
