@@ -31,7 +31,7 @@
 
 <br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModoloDev&layout=compact&theme=prussian)](https://github.com/ModoloDev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModoloDev&layout=compact&theme=prussian)](https://github.com/ModoloDev/github-readme-stats) -->
 
 <!-- ### Sobre mim 🖖🏼
 Bom, primeiramente prazer! Me chamo Lucas Módolo. Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São Paulo. E agora estou trabalhando como Full Stack em uma Startup. <br>
