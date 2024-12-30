@@ -41,4 +41,4 @@ Sempre gostei muito de aprender, principalmente coisas relacionadas a tecnologia
 
 #NeverStopLearning 🚀 -->
 
-[![Lucas's github stats](https://github-readme-stats-modolodevs-projects.vercel.app/api?username=ModoloDev&theme=prussian)](https://github.com/ModoloDev/github-readme-stats)
+[![Lucas's github stats](https://github-readme-stats-five-xi-27.vercel.app/api?username=ModoloDev&theme=prussian)](https://github.com/ModoloDev/github-readme-stats)
